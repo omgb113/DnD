@@ -1,0 +1,37 @@
+.mbody {
+  background-color: #dae3e4;
+}
+
+.mheader {
+  background-color: #2e4471;
+  color: #fff;
+}
+
+.mfooter {
+  background-color: #2e4471;
+  height: 60px;
+}
+
+.close {
+  color: #fff;
+}
+
+.close:hover {
+  color: #fff;
+}
+
+.btn-restaurant {
+  background-color: #2e4471;
+  border: 1px solid #2e4471;
+  color: #fff;
+}
+
+.btn-restaurant:hover {
+  background-color: #fff;
+  color: #2e4471;
+}
+
+.btn-restaurant:checked {
+  background-color: blueviolet;
+  color: blueviolet;
+}

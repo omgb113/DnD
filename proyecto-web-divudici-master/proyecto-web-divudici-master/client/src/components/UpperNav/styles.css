@@ -1,0 +1,12 @@
+.navbar-restaurant {
+  background-color: #2e4471;
+  color: #fff;
+}
+
+.firstLetter {
+  background-color: yellow;
+  width: 10px;
+  height: 10px;
+  color: #fff;
+  border-radius: 10px;
+}

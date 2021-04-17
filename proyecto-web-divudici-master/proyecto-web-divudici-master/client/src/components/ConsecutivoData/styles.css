@@ -1,0 +1,10 @@
+.btn-action {
+  background-color: transparent;
+  border: none;
+}
+
+.btn-action:hover {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}

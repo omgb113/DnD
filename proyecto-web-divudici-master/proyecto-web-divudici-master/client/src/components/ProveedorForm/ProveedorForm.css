@@ -1,0 +1,19 @@
+.product-card {
+  background-color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-top: 1px solid #dae3e4;
+  border-bottom: 1px solid #dae3e4;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 0px;
+  color: #000;
+}
+
+.product-card:hover {
+  background-color: #2e4471;
+}
+
+.product-card:focus {
+  background-color: #2e4471;
+}
